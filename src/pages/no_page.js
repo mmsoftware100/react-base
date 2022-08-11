@@ -1,5 +1,5 @@
-const NoPage = () => {
-    return <h1 > NoPage < /h1>;
-};
+const NoPage = () => <> 
+    <h2>NoPage</h2>
+</>
 
 export default NoPage;

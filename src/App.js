@@ -3,6 +3,9 @@ import './App.css';
 import Home from './pages/home';
 import Listing from './pages/listing';
 import Detail from './pages/detail';
+import Layout from './pages/layout';
+import NoPage from './pages/no_page';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
